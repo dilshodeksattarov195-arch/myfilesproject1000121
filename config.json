@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpalculate",
+        "uuid": 606573,
+        "checksum": "a20vpe"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
